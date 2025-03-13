@@ -5,9 +5,9 @@ A machine learning project on the Adult Income dataset from the USA. In this dat
 
 This project focuses on predicting income levels based on demographic and employment-related attributes using the UCI Adult Income dataset. The goal is to classify individuals into two income categories:
 
-1. ≤50K
+1. Less than or equal to 50K
 
-2. >50K
+2. Greater than 50K
 
 This is a binary classification problem, and various machine learning models were implemented to achieve high accuracy.
 
